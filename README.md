@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineering Student | Backend | DevOps | IoT</h3>
 
 <p align="center">
-  <a href="https://github.com/AndreTMV"><img src="https://img.shields.io/badge/GitHub-AndreTMV-black?style=flat&logo=github"></a>
   <a href="https://linkedin.com/in/andré-mejia"><img src="https://img.shields.io/badge/LinkedIn-André%20Mejía-blue?style=flat&logo=linkedin"></a>
   <img src="https://img.shields.io/badge/Location-Mexico-red?style=flat&logo=pinboard">
 </p>
